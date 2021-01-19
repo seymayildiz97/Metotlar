@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{6E94FC9D-7D1E-4EE1-BBAD-DB20F186C1C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{8038BB3A-2250-4355-B0DD-2D3A4038DE33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E94FC9D-7D1E-4EE1-BBAD-DB20F186C1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E94FC9D-7D1E-4EE1-BBAD-DB20F186C1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E94FC9D-7D1E-4EE1-BBAD-DB20F186C1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E94FC9D-7D1E-4EE1-BBAD-DB20F186C1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8038BB3A-2250-4355-B0DD-2D3A4038DE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8038BB3A-2250-4355-B0DD-2D3A4038DE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8038BB3A-2250-4355-B0DD-2D3A4038DE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8038BB3A-2250-4355-B0DD-2D3A4038DE33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8997D99C-C742-45AE-B147-F0FC71116E49}
+	EndGlobalSection
+EndGlobal
